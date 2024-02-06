@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah-Al-Tamh</h1>
 <h3 align="center">Computer Science College Student at Imam Abdulrahman Bin Faisal</h3>
+<img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-al-tamh&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-al-tamh" /> </p>
-
-<img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <a href="https://twitter.com/@ertkxx" target="blank"><img src="https://img.shields.io/twitter/follow/@ertkxx?logo=twitter&style=for-the-badge" alt="@ertkxx" /></a> </p>
 
@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ertkxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ertkxx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-al-tamh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-al-tamh" height="30" width="40" /></a>
-<a href="https://instagram.com/@ertkxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ertkxx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/abdullah-al-tamh-643851281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdullah-al-tamh-643851281" height="30" width="40" /></a>
+<a href="https://instagram.com/ertkxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ertkxx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
